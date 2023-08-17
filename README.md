@@ -6,6 +6,8 @@ Jack-of-all-trades with 7+ years of work experience. I've been with startups, ma
 - 🌱 I build tools to build apps: [Junior AI](https://junior.atomsbox.com)
 - 👯 I make videos about building apps: [maxonflutter](https://www.youtube.com/maxonflutter)
 
+<!--
 ## 📊 Statistics
 [![Max on Flutter's github stats](https://github-readme-stats.vercel.app/api?username=maxonflutter&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
